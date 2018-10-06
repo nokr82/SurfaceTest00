@@ -1,6 +1,6 @@
 package com.example.csc.surfacetest00;
 
-//made by 조상철
+
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
